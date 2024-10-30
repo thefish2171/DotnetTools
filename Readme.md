@@ -1,5 +1,8 @@
 # Dotnet Tools
 
+> Important: This extension will be discontinued and deprecated from the extension marketplace soon.
+> See [Deprecation](Deprecation.md)
+
 Dotnet Tools for C# and F# projects
 
 This tool helps you to:
