@@ -1,6 +1,6 @@
 # Dotnet Tools
 
-> Important: This extension will be discontinued and deprecated from the extension marketplace soon.
+> Important: This extension will be discontinued and deprecated from the extension marketplace soon. However, this is not the end of it, a new, better and improved version of it is currently being developed.
 > See [Deprecation](Deprecation.md)
 
 Dotnet Tools for C# and F# projects
