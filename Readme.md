@@ -1,7 +1,6 @@
 # Dotnet Tools
 
-> Important: This extension will be discontinued and deprecated from the extension marketplace soon.
-> See [Deprecation](Deprecation.md)
+> ***Important*** This extension is now requested to be deprecated from the vscode marketplace, the repo will be archived (right after the next commit) but keep pubic, in case you want or need to continue the project. Thanks for using it, I hope it was useful to you. Bests, fish
 
 Dotnet Tools for C# and F# projects
 
